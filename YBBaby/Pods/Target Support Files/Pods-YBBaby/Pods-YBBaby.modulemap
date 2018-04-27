@@ -1,0 +1,6 @@
+framework module Pods_YBBaby {
+  umbrella header "Pods-YBBaby-umbrella.h"
+
+  export *
+  module * { export * }
+}

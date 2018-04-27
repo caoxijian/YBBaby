@@ -1,0 +1,6 @@
+framework module Pods_YBDataFoundation {
+  umbrella header "Pods-YBDataFoundation-umbrella.h"
+
+  export *
+  module * { export * }
+}
